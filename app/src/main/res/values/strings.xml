@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stand Up Challenge</string>
+    <string name="first_contestant">First</string>
+    <string name="second_contestant">Second</string>
+    <string name="initial_score">0</string>
+    <string name="laughs">Laughs</string>
+    <string name="claps">Claps</string>
+    <string name="reset_button">Reset</string>
+</resources>
